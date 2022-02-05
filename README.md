@@ -9,12 +9,11 @@
  
 ### Run Flask
   Check index.html with React
-  
-  '''sh
-  git clone https://github.com/Vlevinski/react-app.git
 
-  cd react-app
-  source env/bin/activate
-  
-  python app.py    #development run
-  '''
+    '''
+    git clone https://github.com/Vlevinski/react-app.git
+
+    cd react-app
+    source env/bin/activate
+    python app.py    #development run
+    '''
