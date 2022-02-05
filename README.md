@@ -1,7 +1,9 @@
 ##REACT
 
-### Minimal elements to create HTML with react in minutes
- 1. insert unpkg MyStyle.css in header (inserrted already)
+### Minimal elements to create HTML with React lib in minutes
+
+ 1. insert unpkg MyStyle.css in header (if not inserted already)
+
  2. Select and insert in index.html
     - myHello.js - simple Hello React message
     - myTimer.js - Seconds timer
