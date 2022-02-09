@@ -1,5 +1,11 @@
 ##REACT
 
+### Run 
+
+    '''
+    firefox index.html
+    '''
+
 ### Minimal elements to create HTML with React lib in minutes
 
  1. insert unpkg MyStyle.css in header (if not inserted already)
