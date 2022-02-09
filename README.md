@@ -1,7 +1,8 @@
 ##REACT
+   React minimal examples
 
 ### Run 
-   Run CLI from Linux terminal
+   Run from CLI terminal
 
     '''
     firefox index.html
